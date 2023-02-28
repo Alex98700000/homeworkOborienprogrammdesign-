@@ -64,7 +64,6 @@
                                     <limits>
                                         <limit>
                                             <counter>BRANCH</counter>
-                                            <haltOnFailure>false</haltOnFailure>
                                             <value>COVEREDRATIO</value>
                                             <minimum>100%</minimum>
                                         </limit>
